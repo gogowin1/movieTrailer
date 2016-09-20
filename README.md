@@ -1,6 +1,6 @@
 movieTrailer
 --------------
-movieTrailer is a program that shows preview of my favorite movies
+movieTrailer shows preview of my favorite movies
 
 To Start
 --------------
